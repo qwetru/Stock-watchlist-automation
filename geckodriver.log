@@ -1,0 +1,35 @@
+1652183358789	geckodriver	INFO	Listening on 127.0.0.1:53593
+1652183362836	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53594" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Yash\\AppData\\Local\\Temp\\rust_mozprofileNqBWFI"
+1652183368239	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Yash\\AppData\\Local\\Temp\\rust_mozprofileNqBWFI\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 770))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+DevTools listening on ws://localhost:53594/devtools/browser/a028c869-3f1d-4499-b76d-cf9526c1522c
+1652183391694	Marionette	INFO	Listening on port 53646
+Read port: 53646
+1652183392088	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.nseindia.com/dist/js/static/public/assets/js/common.js, line 3100: unreachable code after return statement
+JavaScript warning: https://www.nseindia.com/dist/js/static/public/assets/js/common.js, line 3117: unreachable code after return statement
+JavaScript error: https://www.nseindia.com/dist/js/sections/live-market/liveMarketEquity.js, line 8: TypeError: $select.val() is null
+JavaScript error: https://www.nseindia.com/dist/js/sections/live-market/liveMarketEquity.js, line 8: TypeError: $select.val() is null
+JavaScript error: https://www.nseindia.com/dist/js/sections/live-market/liveMarketEquity.js, line 8: TypeError: $select.val() is null
+JavaScript error: https://www.nseindia.com/dist/js/sections/live-market/liveMarketEquity.js, line 8: TypeError: $select.val() is null
+JavaScript error: https://www.nseindia.com/dist/js/sections/live-market/liveMarketEquity.js, line 8: TypeError: $select.val() is null
+JavaScript error: https://www.nseindia.com/dist/js/sections/live-market/liveMarketEquity.js, line 8: TypeError: $select.val() is null
+JavaScript error: https://www.nseindia.com/dist/js/sections/live-market/liveMarketEquity.js, line 8: TypeError: $select.val() is null
+JavaScript error: https://www.nseindia.com/dist/js/sections/live-market/liveMarketEquity.js, line 8: TypeError: $select.val() is null
+JavaScript error: https://www.nseindia.com/dist/js/sections/live-market/liveMarketEquity.js, line 8: TypeError: $select.val() is null
+JavaScript error: https://www.nseindia.com/dist/js/sections/live-market/liveMarketEquity.js, line 8: TypeError: $select.val() is null
+JavaScript error: https://www.nseindia.com/dist/js/sections/live-market/liveMarketEquity.js, line 8: TypeError: $select.val() is null
+JavaScript error: https://www.nseindia.com/dist/js/sections/live-market/liveMarketEquity.js, line 8: TypeError: $select.val() is null
+JavaScript error: https://www.nseindia.com/dist/js/sections/live-market/liveMarketEquity.js, line 8: TypeError: $select.val() is null
+JavaScript error: https://www.nseindia.com/dist/js/sections/live-market/liveMarketEquity.js, line 8: TypeError: $select.val() is null
+JavaScript error: https://www.nseindia.com/dist/js/sections/live-market/liveMarketEquity.js, line 8: TypeError: $select.val() is null
+JavaScript error: https://www.nseindia.com/dist/js/sections/live-market/liveMarketEquity.js, line 8: TypeError: $select.val() is null
+JavaScript error: https://www.nseindia.com/dist/js/sections/live-market/liveMarketEquity.js, line 8: TypeError: $select.val() is null
+1652183674029	Marionette	INFO	Stopped listening on port 53646
+[Parent 7540, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 7540, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1652190907686	geckodriver	INFO	Listening on 127.0.0.1:54132
+1652190910967	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54133" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Yash\\AppData\\Local\\Temp\\rust_mozprofile7wlmUS"
